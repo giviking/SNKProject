@@ -1,4 +1,5 @@
-# Proyecto final
+# Proyecto final / SNK Project
+![Logo de SNK](img/snklogo.png) 
 
 ## Investigación
 
@@ -30,8 +31,7 @@ Usaré una base de tonos basados en la marca y el estilo de la empresa, como:
 - Menta  (#d3e7c9)
 
 ![Paleta de Colores](img/SNLPal.png) 
-<img src="img/SNLPal.png" alt="SNLPal">
-<img src="img/SNLPal.png" alt="SNLPal" width="400" height="200">
+
 
 
 ### 2. Tipografía
