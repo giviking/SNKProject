@@ -27,6 +27,12 @@ Usaré una base de tonos basados en la marca y el estilo de la empresa, como:
 - Negro  (#000000)
 - Blanco (#ffffff) 
 - Rojo   (#ee0241) 
+- Menta  (#d3e7c9)
+
+
+<img src="img/SNLPal.jpg" alt="SNLPal">
+<img src="img/SNLPal.jpg" alt="SNLPal" width="800" height="600">
+
 
 ### 2. Tipografía
 La tipografía principal es Roboto Serif ya que es fuerte, moderna y fácil de reconocer para títulos y el texto corrido. Tambien es una fuente limpia y legible que facilita la lectura en pantallas pequeñas y grandes.
