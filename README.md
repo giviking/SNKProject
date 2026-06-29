@@ -52,6 +52,8 @@ Se usan contrastes adecuados en los colores y el tamaño de la letra adecuado pa
 ### Descarga del Documento de Evalaucion:
 👉 [Descargar Documento de Evaluacion](./Guillermo_Instrucciones_Rubrica-Evaluacion_Actividad_ComprobaciónFinal_Mod_D.I.W_2026.docx) 
 
+Despues de darle click al enlace, tiene que darle click a View Raw para poder descargar el documento. 
+
 ### Boceto
 Este es el boceto a mano del proyecto
 ![Boceto](img/SNKBoceto.jpeg)
@@ -59,6 +61,8 @@ Este es el boceto a mano del proyecto
 ### Mockup
 Hecho en Pencil
 👉 [Descargar Mockup](./SNKPencil.epgz) 
+
+Despues de darle click al enlace, tiene que darle click a View Raw para poder descargar el archivo. 
 
 
 
