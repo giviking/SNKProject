@@ -43,6 +43,29 @@ Se incluirán imágenes de logos y material gráfico de las franquicias más con
 ### 4. Distribución del contenido
 La información se organizará en bloques claros: historia de SNK y franquicias principales. Esta estructura mejora la navegación y permite que el usuario encuentre rápidamente lo que busca. Manteniendo ese enfoque minimalista.
 
+### 5. Accesibilidad WCAG AA
+Se usan contrastes adecuados en los colores y el tamaño de la letra adecuado para personas con problemas visuales para que tenga una visiblidad y funcionalidad adecuadas.  
+
+
+## Instrucciones Del Proyecto
+
+### Descarga del Documento de Evalaucion:
+👉 [Descargar Documento de Evaluacion](./Guillermo_Instrucciones_Rubrica-Evaluacion_Actividad_ComprobaciónFinal_Mod_D.I.W_2026.docx) 
+
+### Boceto
+Este es el boceto a mano del proyecto
+![Boceto](img/SNKBoceto.jpeg)
+
+### Mockup
+Hecho en Pencil
+👉 [Descargar Mockup](./SNKPencil.epgz) 
+
+
+
+
+
+
+
 
 
 
