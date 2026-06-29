@@ -31,7 +31,7 @@ Usaré una base de tonos basados en la marca y el estilo de la empresa, como:
 
 ![Paleta de Colores](img/SNLPal.png) 
 <img src="img/SNLPal.png" alt="SNLPal">
-<img src="img/SNLPal.png" alt="SNLPal" width="800" height="600">
+<img src="img/SNLPal.png" alt="SNLPal" width="400" height="200">
 
 
 ### 2. Tipografía
