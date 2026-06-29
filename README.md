@@ -22,7 +22,11 @@ La propuesta creativa busca recrear la identidad de SNK mediante la energía de 
 ## Guía de estilo y diseño (Design System)
 
 ### 1. Paleta de color
-Usaré una base de tonos oscuros, como negro, gris o azul profundo, acompañados por acentos en rojo, dorado o neón para transmitir una sensación arcade y retro.
+Usaré una base de tonos basados en la marca y el estilo de la empresa, como: 
+- Azul   (#1e8ece)
+- Negro  (#000000)
+- Blanco (#ffffff) 
+- Rojo   (#ee0241) 
 
 ### 2. Tipografía
 La tipografía principal es Roboto Serif ya que es fuerte, moderna y fácil de reconocer para títulos y el texto corrido. Tambien es una fuente limpia y legible que facilita la lectura en pantallas pequeñas y grandes.
