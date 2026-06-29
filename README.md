@@ -70,6 +70,9 @@ Enlace al proyecto en Penpot.
 
 [Enlace a Penpot](https://design.penpot.app/#/view?file-id=a234c67f-eb39-8116-8008-3f8e22a95d8d&page-id=86bdcaa1-299a-806a-8008-2057aec49c8a&section=interactions&index=0&share-id=8f0a304d-16ec-81f8-8008-406880723d51)
 
+### Figma
+Prototipo Móvil
+[Enlace a Prototipo Móvil](https://www.figma.com/proto/eUJ9ATCOh1qj9HH4blC4rD/ScrollKOF?node-id=1-12&starting-point-node-id=1%3A12)
 
 # :;
 
