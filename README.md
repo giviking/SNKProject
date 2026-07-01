@@ -116,8 +116,7 @@ color que es el mismo del logo de la empresa.
 ### Descarga de la Rubrica de Evaluacion Corregida
 En este enlace se puede descargar la rubrica evaluada por el profesor  
 con las sugerencias a corregir por parte del profesor:
-[Enlace para descargar la rubrica](./GuillermoRevisado_Instrucciones_Rubrica-Evaluacion_Actividad_ComprobaciónFinal_Mod_D.I.W_2026)
-
+[Enlace para descargar la rubrica](./GuillermoRevisado_Instrucciones_Rubrica-Evaluacion_Actividad_Comprobaci%C3%B3nFinal_Mod_D.I.W_2026.docx)
 
 
 
