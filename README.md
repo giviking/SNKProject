@@ -79,7 +79,7 @@ Prototipo Móvil
 ### Wireframe
 Wireframe refleja boceto de interfaz         (No existe wireframe) **Hecho**  
 
-Wireframe cumpre requerimientos y normativa  (No existe wireframe)**Hecho**  
+Wireframe cumpre requerimientos y normativa  (No existe wireframe) **Hecho**  
 
 Wirefreame Agregado  
 ![Wireframe](img/snkwireframe.png) 
@@ -99,11 +99,14 @@ Convenciones universales presentes (🚨Enlace en logotipo a inicio) **Hecho**
 
 ### Iconos
 Iconos relacionados a contenidos (🚨Escasa iconografía) **Hecho**  
-Se agregan los iconos de Inicio, Telefono y Ciudad
+Se agregan los iconos de Inicio, Telefono, Email y Ciudad.
 
 
 ### Jerarquia en Texto
 Evidencia jerarquia en texto (🚨Textos en menú y footer más grandes que párrafos) **Hecho**  
+Se modifican los textos de los headers y footers, los mismos se pasan a letra tamaño 26  
+y se agregan Titulos en H1 en tamaño 36 los mismos se cambian a color #1e8ece,  
+color que es el mismo del logo de la empresa.  
 
 
 
