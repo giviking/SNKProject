@@ -77,10 +77,11 @@ Prototipo Móvil
 # Correcciones 
 
 ### Wireframe
-Wireframe refleja boceto de interfaz         (No existe wireframe)  
-Wireframe cumpre requerimientos y normativa  (No existe wireframe)  
+Wireframe refleja boceto de interfaz         (No existe wireframe) **Hecho**  
 
-Wirefreame Agregado 
+Wireframe cumpre requerimientos y normativa  (No existe wireframe)**Hecho**  
+
+Wirefreame Agregado  
 ![Wireframe](img/snkwireframe.png) 
 
 
