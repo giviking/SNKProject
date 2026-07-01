@@ -106,7 +106,19 @@ Se agregan los iconos de Inicio, Telefono, Email y Ciudad.
 Evidencia jerarquia en texto (🚨Textos en menú y footer más grandes que párrafos) **Hecho**  
 Se modifican los textos de los headers y footers, los mismos se pasan a letra tamaño 26  
 y se agregan Titulos en H1 en tamaño 36 los mismos se cambian a color #1e8ece,  
-color que es el mismo del logo de la empresa.  
+color que es el mismo del logo de la empresa. 
+
+### Enlace de Penpot
+
+[Enlace a Penpot Corredigo](https://design.penpot.app/?_gl=1*k9c7s1*_gcl_au*NDY4NjUxMjUzLjE3ODA1MjA0MjQ.*_ga*MTYyNDcxMTcyOS4xNzgwNTIwNDIy*_ga_K0KF97C51Q*czE3ODI5MjQ5NjQkbzE1JGcwJHQxNzgyOTI0OTY2JGo1OCRsMCRoMA..#/workspace?team-id=8580c946-af19-8023-8008-1c76200a5430&file-id=a234c67f-eb39-8116-8008-3f8e22a95d8d&page-id=86bdcaa1-299a-806a-8008-2057aec49c8a&board-id=26703ad8-cab6-8059-8008-205ff243f58a)
+
+
+### Descarga de la Rubrica de Evaluacion Corregida
+En este enlace se puede descargar la rubrica evaluada por el profesor  
+con las sugerencias a corregir por parte del profesor:
+[Enlace para descargar la rubrica](./GuillermoRevisado_Instrucciones_Rubrica-Evaluacion_Actividad_ComprobaciónFinal_Mod_D.I.W_2026)
+
+
 
 
 
