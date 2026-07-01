@@ -71,6 +71,36 @@ Enlace al proyecto en Penpot.
 [Enlace a Penpot](https://design.penpot.app/#/view?file-id=a234c67f-eb39-8116-8008-3f8e22a95d8d&page-id=86bdcaa1-299a-806a-8008-2057aec49c8a&section=interactions&index=0&share-id=8f0a304d-16ec-81f8-8008-406880723d51)
 
 
+# Correcciones 
+
+### Wireframe
+Wireframe refleja boceto de interfaz         (No existe wireframe)
+Wireframe cumpre requerimientos y normativa  (No existe wireframe)
+
+
+
+
+### Componentes
+Anotaciones sobre elementos importantes (🚨Uso de componentes)
+
+### Version Movil
+Visualizacion perfecta en resolucion movil  (🚨No hay relación entre versión escritorio y móvil)
+
+### Logotipo
+Convenciones universales presentes (🚨Enlace en logotipo a inicio)
+**Hecho**
+
+### Iconos
+Iconos relacionados a contenidos (🚨Escasa iconografía)
+
+
+### Jerarquia en Texto
+Evidencia jerarquia en texto (🚨Textos en menú y footer más grandes que párrafos)
+
+
+
+
+
 # :;
 
 
