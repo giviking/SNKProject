@@ -88,21 +88,24 @@ Wirefreame Agregado
 
 
 ### Componentes
-Anotaciones sobre elementos importantes (🚨Uso de componentes)
+Anotaciones sobre elementos importantes (🚨Uso de componentes) **Hecho**  
+Se crean los componentes de Telefono y Ciudad para los Footers.
 
 ### Version Movil
 Visualizacion perfecta en resolucion movil  (🚨No hay relación entre versión escritorio y móvil)
 
 ### Logotipo
-Convenciones universales presentes (🚨Enlace en logotipo a inicio)
-**Hecho**
+Convenciones universales presentes (🚨Enlace en logotipo a inicio) **Hecho**
 
 ### Iconos
-Iconos relacionados a contenidos (🚨Escasa iconografía)
+Iconos relacionados a contenidos (🚨Escasa iconografía) **Hecho**  
+Se agregan los iconos de Inicio, Telefono y Ciudad
 
 
 ### Jerarquia en Texto
-Evidencia jerarquia en texto (🚨Textos en menú y footer más grandes que párrafos)
+Evidencia jerarquia en texto (🚨Textos en menú y footer más grandes que párrafos) **Hecho**  
+
+
 
 
 
